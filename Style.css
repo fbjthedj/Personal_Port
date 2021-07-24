@@ -1,3 +1,11 @@
-.h1 {
-    color: aqua;
-}
+/* ---------------- Navigation Bar -----------------*/
+.logo_navbar {
+    font-weight: bolder;
+  }
+  nav {
+    margin-top: 15px;
+  }
+  .nav-links {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
